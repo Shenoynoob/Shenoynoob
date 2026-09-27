@@ -144,12 +144,9 @@ Each NFC tag carries a unique ID; a tap logs a timestamped event to the cloud an
 
 ---
 
-### 📈 GitHub stats
+### 🔥 Contribution streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shenoynoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenoynoob&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Shenoynoob&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </div>
 
