@@ -147,7 +147,7 @@ Each NFC tag carries a unique ID; a tap logs a timestamped event to the cloud an
 ### 🔥 Contribution streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shenoynoob&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Shenoynoob&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&disable_animations=true" alt="Contribution streak"/>
 </div>
 
 ---
